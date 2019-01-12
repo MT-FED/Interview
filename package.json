@@ -1,0 +1,30 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "interview questions",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MT-FED/Interview.git"
+  },
+  "keywords": [
+    "interview",
+    "best",
+    "more",
+    "questions",
+    "front-end",
+    "back-end"
+  ],
+  "author": "MT-FED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MT-FED/Interview/issues"
+  },
+  "homepage": "https://github.com/MT-FED/Interview#readme",
+  "dependencies": {
+    "xmind-and-markdown-translator": "git+https://github.com/zhangjingcn/xmind-markdown-translator.git"
+  }
+}
